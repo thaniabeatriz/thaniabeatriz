@@ -1,9 +1,15 @@
 <h1 align="center" ><img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Hey! I'm Thânia Beatriz. <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/></h1>
 
-<p>I'm a university student of computer science and I'm a person always willing to learn, I like to code listening to music or with pair programming.</p>
+<p>👋 I'm an university student in the Computer Science field and I'm always willing to learn. I enjoy coding while listening to music or with pair programming.</p>
+<p>🌱 I have experience: Scrum, Kanban, PHP Laravel, Java, HTML, CSS, Docker, Gitlab, JetBrains, PHPStorm... 🤔</p>
+<p>🎼 I like to listen: Pop, R&B, Dance/Eletronic, MPB and mainly The Weeknd. 💕 </p>
 <p> <img src="https://visitor-badge.glitch.me/badge?page_id=thaniabeatriz.visitor-badge" alt="visitors"></p>
 
-### <i>Where to find me... 👇</i>
+<h2></h2>
+
+### <i>⚡ GitHub Stats</i>
+
+### <i>Where to find me... 🤙</i>
 
 <a href="https://www.instagram.com/thaniabeatriz_/"> 
   <img align="center" alt="Instagram" width="22px" src="https://slackmojis.com/emojis/632-instagram/download" />
