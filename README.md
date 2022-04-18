@@ -1,5 +1,5 @@
 <h1 align="center" ><img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Hey! I'm Thânia Beatriz. <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/></h1>
-
+<img align='right' src='https://media.discordapp.net/attachments/847481872115040289/965440401081241600/picasion.com_d00945cba18436568971401eb5d0c0e5.gif' width='150"'>
 <p>👋 I'm an university student in the Computer Science field and I'm always willing to learn. I enjoy coding while listening to music or with pair programming.</p>
 <p>🌱 I have experience: Scrum, Kanban, PHP Laravel, Java, HTML, CSS, Docker, Gitlab, JetBrains, PHPStorm... 🤔</p>
 <p>🎼 I like to listen: Pop, R&B, Dance/Eletronic, MPB and mainly The Weeknd. 💕 </p>
