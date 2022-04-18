@@ -13,9 +13,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaniabeatriz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaniabeatriz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<h3></h3>
+<h2></h2>
   
-### <i>Where to find me... 🤙</i>
+### <i>🤙Where to find me...</i>
 
 <a href="https://www.instagram.com/thaniabeatriz_/"> 
   <img align="center" alt="Instagram" width="22px" src="https://slackmojis.com/emojis/632-instagram/download" />
