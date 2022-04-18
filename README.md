@@ -4,7 +4,6 @@
 <p>🌱 I have experience: Scrum, Kanban, PHP Laravel, Java, HTML, CSS, Docker, Gitlab, JetBrains, PHPStorm... 🤔</p>
 <p>🎼 I like to listen: Pop, R&B, Dance/Eletronic, MPB and mainly The Weeknd. 💕 </p>
 <p> <img src="https://visitor-badge.glitch.me/badge?page_id=thaniabeatriz.visitor-badge" alt="visitors"></p>
-
 <h2></h2>
 
 ### <i>⚡ GitHub Stats</i>
