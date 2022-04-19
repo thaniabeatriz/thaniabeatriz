@@ -3,7 +3,6 @@
 <p>👋 I'm an university student in the Computer Science field and I'm always willing to learn. I enjoy coding while listening to music or with pair programming.</p>
 <p>🌱 I have experience: Scrum, Kanban, PHP Laravel, Java, HTML, CSS, Docker, Gitlab, JetBrains, PHPStorm... 🤔</p>
 <p>🎼 I like to listen: Pop, R&B, Dance/Eletronic, MPB and mainly The Weeknd. 💕 </p>
-<p> <img src="https://visitor-badge.glitch.me/badge?page_id=thaniabeatriz.visitor-badge" alt="visitors"></p>
 
 <h2></h2>
 
@@ -21,6 +20,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thaniabeatriz_/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thania-pereira/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/214kcdjp236xsg3vtthx5jfjy)
+<a> <img src="https://visitor-badge.glitch.me/badge?page_id=thaniabeatriz.visitor-badge" alt="visitors"></a>
 <h2></h2>
   
 ### <i>🎶What am I listening to?</i>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214kcdjp236xsg3vtthx5jfjy&cover_image=true&theme=natemoo-re&bar_color=ffdd00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
