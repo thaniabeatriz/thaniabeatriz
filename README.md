@@ -2,7 +2,7 @@
 <img align='right' src='https://media.discordapp.net/attachments/847481872115040289/965440401081241600/picasion.com_d00945cba18436568971401eb5d0c0e5.gif' width='150"'>
 <p>👋 I'm an university student in the Computer Science field and I'm always willing to learn. I enjoy coding while listening to music or with pair programming.</p>
 <p>🌱 I have experience: Scrum, Kanban, Ruby on Rails, PHP Laravel, Java, HTML, CSS, Docker, GitHub, GitLab... 🤔 I only know the basics but I am willing to learn and reinforce even more. </p>
-<p>🚀 I'm currently studying for DevOps. </p>
+<p>🚀 I'm currently studying Python. </p>
 
 <h2></h2>
 
