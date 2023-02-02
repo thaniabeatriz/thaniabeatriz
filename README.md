@@ -21,7 +21,3 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/214kcdjp236xsg3vtthx5jfjy)
 <a> <img src="https://visitor-badge.glitch.me/badge?page_id=thaniabeatriz.visitor-badge" alt="visitors"></a>
 <h2></h2>
-
-### <i>👽Content summarized in Notion</i>
-  
-  [![SQL](https://img.shields.io/badge/Sql-%23E4405F.svg?style=for-the-badge&logo=sql&logoColor=white)](https://stellar-theory-31d.notion.site/Curso-SQL-0f0ab8dad66d44899e6ebf159476ba62)
